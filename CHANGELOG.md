@@ -1,5 +1,7 @@
 # Changelog
 
+## [v1.6.0](https://github.com/o-ga09/govalid/commits/v1.6.0) - 2025-10-30
+
 ## [v1.6.0](https://github.com/sivchari/govalid/compare/v1.5.1...v1.6.0) - 2025-09-30
 - Propagate toplevel marker by @sivchari in https://github.com/sivchari/govalid/pull/144
 - Avoid conflict when run add test by @sivchari in https://github.com/sivchari/govalid/pull/120
